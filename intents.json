@@ -1,0 +1,55 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": ["Hi", "Hello", "Hey", "Howdy", "Greetings"],
+        "responses": ["Hello! How can I assist you?", "Hi there! How can I help?", "Hey! What can I do for you?"]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["Bye", "Goodbye", "See you later", "Take care"],
+        "responses": ["Goodbye! Have a great day!", "See you later! Take care.", "Bye! Come back soon."]
+      },
+      {
+        "tag": "thanks",
+        "patterns": ["Thanks", "Thank you", "Appreciate it"],
+        "responses": ["You're welcome!", "Anytime!", "Glad I could help!"]
+      },
+      {
+        "tag": "help",
+        "patterns": ["Help", "Assistance", "Support"],
+        "responses": ["How can I assist you?", "What do you need help with?", "Tell me more about what you need help with."]
+      },
+      {
+        "tag": "search",
+        "patterns": ["Find", "Search", "Lookup"],
+        "responses": ["Please provide more details about what you're looking for.", "What would you like to search for?", "I can help you find information. What are you searching for?"]
+      },
+      {
+        "tag": "weather",
+        "patterns": ["What's the weather like?", "Tell me the weather forecast", "Weather update"],
+        "responses": ["Please provide your location to check the weather.", "Sure, I can check the weather for you. Please provide your location.", "To provide a weather update, I need your location."]
+      },
+      {
+        "tag": "joke",
+        "patterns": ["Tell me a joke", "Share a joke", "Joke"],
+        "responses": ["Sure, here's a joke: Why did the scarecrow win an award? Because he was outstanding in his field!", "I love jokes! Here's one: What do you call an alligator in a vest? An investigator!", "Here's a joke for you: Why did the coffee file a police report? It got mugged!"]
+      },
+      {
+        "tag": "time",
+        "patterns": ["What's the time?", "Tell me the time", "Current time"],
+        "responses": ["Please provide your timezone to check the current time.", "Sure, I can tell you the time. Please provide your timezone.", "To provide the current time, I need your timezone."]
+      },
+      {
+        "tag": "news",
+        "patterns": ["Latest news", "News update", "What's happening in the world?"],
+        "responses": ["Please specify a news category or topic you are interested in.", "Sure, I can provide news updates. What category or topic are you interested in?", "To give you the latest news, please specify a category or topic."]
+      },
+      {
+        "tag": "unknown",
+        "patterns": ["Sorry, I don't understand", "I don't know", "Not sure"],
+        "responses": ["I apologize for any confusion. Please try rephrasing your question.", "Could you please rephrase that?", "I'm still learning. Could you try asking differently?"]
+      }
+    ]
+  }
+  
