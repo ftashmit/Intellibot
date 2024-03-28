@@ -31,7 +31,7 @@ Intellibot is a conversational agent, commonly known as a chatbot, developed usi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Intellibot.git
+   git clone https://github.com/ftashmit/Intellibot.git
    ```
    Replace `ftashmit` with your GitHub username.
 
