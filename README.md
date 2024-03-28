@@ -67,11 +67,11 @@ You can customize the chatbot responses, add new features, and modify the behavi
 
 ## Contributing
 
-Contributions are welcome! Please follow the guidelines in the (CONTRIBUTING.md) file to contribute to this project.
+Contributions are welcome! Please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file to contribute to this project.
 
 ## License
 
-This project is licensed under the MIT License. See the (LICENSE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
 
